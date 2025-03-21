@@ -11,10 +11,8 @@ This project is a **professional portfolio website** designed to showcase my ski
 - **Responsive Design:** Mobile-friendly UI for seamless viewing on all devices.
 
 ## 🛠 Tech Stack
-- **Frontend:** HTML, CSS, JavaScript (React.js, if applicable)
-- **Backend:** Node.js/Express (if needed)
-- **Database:** MongoDB/PostgreSQL (if applicable)
-- **Deployment:** GitHub Pages / Vercel / Netlify
+- **Frontend:** HTML and CSS
+- **Deployment:** VS Code
 
 ## 🚀 Getting Started
 ### 1️⃣ Clone the Repository
