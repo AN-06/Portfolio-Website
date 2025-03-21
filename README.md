@@ -7,7 +7,7 @@ This project is a **professional portfolio website** designed to showcase my ski
 - **About Section:** A brief introduction about myself.
 - **Skills:** Showcasing my technical and non-technical skills.
 - **Projects:** Displaying my top projects with descriptions and links.
-- **Contact Form:** A form where visitors can reach out to me.
+- **Contact:** Link to social sites where visitors can reach out to me.
 - **Responsive Design:** Mobile-friendly UI for seamless viewing on all devices.
 
 ## 🛠 Tech Stack
