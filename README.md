@@ -1,7 +1,7 @@
 # My Portfolio Website
 
 ## 📌 Objective
-This project is a **professional portfolio website** designed to showcase my skills, projects, and contact information. It serves as an online resume and highlights my technical and non-technical expertise.
+This project is a **professional portfolio website** designed to showcase my skills, projects, and contact information. It serves as an online resume and highlights my technical expertise
 
 ## ✨ Features
 - **About Section:** A brief introduction about myself.
